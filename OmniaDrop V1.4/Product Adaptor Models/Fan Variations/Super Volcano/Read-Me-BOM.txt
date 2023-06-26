@@ -1,0 +1,9 @@
+You need the following additional materials:
+
+1x 4010 Blower Fan
+2x ISO4762 M2x4mm for the top holes of the 4010 blower fans
+2x ISO4762 M2x6mm for the bottom holes of the 4010 blower fans
+2x ISO7380 M3x8mm to attach the "Cooling-Two-Fan" to the "Cooling-Block-Fan"
+4x M3 threaded inserts, these are there to attach a probe holder. The top two threaded insert are intended for a BLTouch probe holder and the the bottom two threaded inserts are intended for a induction probe holder.
+
+For reference there are two pictures how to assemble everything.	
